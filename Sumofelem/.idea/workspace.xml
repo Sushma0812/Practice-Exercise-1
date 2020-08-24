@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77ee2bae-4067-4f9e-b760-2fd83ed5b984" name="Default Changelist" comment="">
+    <list default="true" id="b1cc7229-b871-4da8-90d2-22f0411cc241" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stackroute/Sumofelem.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Consecutive/Consecutive.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sum/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ascending order/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ascending order/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ascending order/out/production/Ascending order/com/stackroute/Ascending.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Ascending order/out/production/Ascending order/com/stackroute/Ascending.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ascending order/src/com/stackroute/Ascending.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ascending order/src/com/stackroute/Ascending.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Average/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Average/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Average/src/com/stackroute/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Average/src/com/stackroute/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/Average.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../News/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../News/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../News/src/com/stackroute/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/../News/src/com/stackroute/News.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perimeter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Perimeter/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sum/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sum/out/production/sum/com/stackroute/Sum.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sum/src/com/stackroute/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sum/src/com/stackroute/Averagee.java" afterDir="false" />
@@ -20,10 +23,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="185" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1gP0bjR4f0lDdgvNdWIsYlcEzq2" />
+  <component name="ProjectId" id="1gP2nSaY7r4Kop92xslCU9WIW65" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,22 +37,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Perimeter">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.Main" />
-      <module name="Perimeter" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Perimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.Perimeter" />
-      <module name="Perimeter" />
+  <component name="RunManager" selected="Application.Sumofelem">
+    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.Average" />
+      <module name="Average" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.stackroute.*" />
@@ -57,9 +54,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.Main" />
+      <module name="Average" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sumofelem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.Sumofelem" />
+      <module name="Average" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Average" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Sumofelem" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Perimeter" />
+        <item itemvalue="Application.Sumofelem" />
+        <item itemvalue="Application.Average" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -81,42 +107,43 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="77ee2bae-4067-4f9e-b760-2fd83ed5b984" name="Default Changelist" comment="" />
-      <created>1598000993764</created>
+      <changelist id="b1cc7229-b871-4da8-90d2-22f0411cc241" name="Default Changelist" comment="" />
+      <created>1598002073959</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598000993764</updated>
+      <updated>1598002073959</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="24" width="802" height="676" key="#Auto_Import" timestamp="1598006033468">
+    <state x="516" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598003197807">
       <screen x="0" y="24" width="1600" height="709" />
     </state>
-    <state x="277" y="24" width="802" height="676" key="#Auto_Import/0.24.1600.709@0.24.1600.709" timestamp="1598006033468" />
-    <state x="465" y="86" width="426" height="483" key="FileChooserDialogImpl" timestamp="1598006247568">
+    <state x="516" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1600.709@0.24.1600.709" timestamp="1598003197807" />
+    <state x="465" y="86" width="426" height="483" key="FileChooserDialogImpl" timestamp="1598094728059">
       <screen x="0" y="24" width="1600" height="709" />
     </state>
-    <state x="465" y="86" width="426" height="483" key="FileChooserDialogImpl/0.24.1600.709@0.24.1600.709" timestamp="1598006247568" />
-    <state width="1296" height="118" key="GridCell.Tab.0.bottom" timestamp="1598006637791">
+    <state x="465" y="86" width="426" height="483" key="FileChooserDialogImpl/0.24.1600.709@0.24.1600.709" timestamp="1598094728059" />
+    <state width="1296" height="118" key="GridCell.Tab.0.bottom" timestamp="1598095172656">
       <screen x="0" y="24" width="1600" height="709" />
     </state>
-    <state width="1296" height="118" key="GridCell.Tab.0.bottom/0.24.1600.709@0.24.1600.709" timestamp="1598006637791" />
-    <state width="1296" height="118" key="GridCell.Tab.0.center" timestamp="1598006637790">
+    <state width="1296" height="118" key="GridCell.Tab.0.bottom/0.24.1600.709@0.24.1600.709" timestamp="1598095172656" />
+    <state width="1296" height="118" key="GridCell.Tab.0.center" timestamp="1598095172656">
       <screen x="0" y="24" width="1600" height="709" />
     </state>
-    <state width="1296" height="118" key="GridCell.Tab.0.center/0.24.1600.709@0.24.1600.709" timestamp="1598006637790" />
-    <state width="1296" height="118" key="GridCell.Tab.0.left" timestamp="1598006637789">
+    <state width="1296" height="118" key="GridCell.Tab.0.center/0.24.1600.709@0.24.1600.709" timestamp="1598095172656" />
+    <state width="1296" height="118" key="GridCell.Tab.0.left" timestamp="1598095172655">
       <screen x="0" y="24" width="1600" height="709" />
     </state>
-    <state width="1296" height="118" key="GridCell.Tab.0.left/0.24.1600.709@0.24.1600.709" timestamp="1598006637789" />
-    <state width="1296" height="118" key="GridCell.Tab.0.right" timestamp="1598006637790">
+    <state width="1296" height="118" key="GridCell.Tab.0.left/0.24.1600.709@0.24.1600.709" timestamp="1598095172655" />
+    <state width="1296" height="118" key="GridCell.Tab.0.right" timestamp="1598095172656">
       <screen x="0" y="24" width="1600" height="709" />
     </state>
-    <state width="1296" height="118" key="GridCell.Tab.0.right/0.24.1600.709@0.24.1600.709" timestamp="1598006637790" />
-    <state x="0" y="24" width="1374" height="708" key="new project wizard" timestamp="1598006634451">
-      <screen x="0" y="24" width="1600" height="709" />
-    </state>
-    <state x="0" y="24" width="1374" height="708" key="new project wizard/0.24.1600.709@0.24.1600.709" timestamp="1598006634451" />
+    <state width="1296" height="118" key="GridCell.Tab.0.right/0.24.1600.709@0.24.1600.709" timestamp="1598095172656" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Average$Average.ic" NAME="Average Coverage Results" MODIFIED="1598002988846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.stackroute.*</FILTER>
+    </SUITE>
   </component>
 </project>

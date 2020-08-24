@@ -1,17 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80ef7df4-4624-405c-9e62-afb11a4317cb" name="Default Changelist" comment="" />
+    <list default="true" id="80ef7df4-4624-405c-9e62-afb11a4317cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Average/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consecutive/Consecutive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ascending order/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ascending order/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ascending order/out/production/Ascending order/com/stackroute/Ascending.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Ascending order/out/production/Ascending order/com/stackroute/Ascending.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ascending order/src/com/stackroute/Ascending.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ascending order/src/com/stackroute/Ascending.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Average/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Average/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Average/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Average/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Average/Average.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Average/out/production/Average/com/stackroute/Average.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Average/src/com/stackroute/Average.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/News.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perimeter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Perimeter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sum/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sum/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sum/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sum/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sum/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sum/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sum/out/production/sum/com/stackroute/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sum/src/com/stackroute/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sum/sum.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1gPC2iw9jvmhsOZ0T0MhamV5yP3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ascending order" />
   </component>
   <component name="RunManager" selected="Application.News">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -71,5 +101,31 @@
       <updated>1598006634605</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="86" width="426" height="483" key="FileChooserDialogImpl" timestamp="1598152809048">
+      <screen x="0" y="24" width="1600" height="709" />
+    </state>
+    <state x="465" y="86" width="426" height="483" key="FileChooserDialogImpl/0.24.1600.709@0.24.1600.709" timestamp="1598152809048" />
+    <state width="1296" height="118" key="GridCell.Tab.0.bottom" timestamp="1598152811159">
+      <screen x="0" y="24" width="1600" height="709" />
+    </state>
+    <state width="1296" height="118" key="GridCell.Tab.0.bottom/0.24.1600.709@0.24.1600.709" timestamp="1598152811159" />
+    <state width="1296" height="118" key="GridCell.Tab.0.center" timestamp="1598152811159">
+      <screen x="0" y="24" width="1600" height="709" />
+    </state>
+    <state width="1296" height="118" key="GridCell.Tab.0.center/0.24.1600.709@0.24.1600.709" timestamp="1598152811159" />
+    <state width="1296" height="118" key="GridCell.Tab.0.left" timestamp="1598152811159">
+      <screen x="0" y="24" width="1600" height="709" />
+    </state>
+    <state width="1296" height="118" key="GridCell.Tab.0.left/0.24.1600.709@0.24.1600.709" timestamp="1598152811159" />
+    <state width="1296" height="118" key="GridCell.Tab.0.right" timestamp="1598152811159">
+      <screen x="0" y="24" width="1600" height="709" />
+    </state>
+    <state width="1296" height="118" key="GridCell.Tab.0.right/0.24.1600.709@0.24.1600.709" timestamp="1598152811159" />
+    <state x="338" y="156" key="com.intellij.ide.util.TipDialog" timestamp="1598092501584">
+      <screen x="0" y="24" width="1600" height="709" />
+    </state>
+    <state x="338" y="156" key="com.intellij.ide.util.TipDialog/0.24.1600.709@0.24.1600.709" timestamp="1598092501584" />
   </component>
 </project>
